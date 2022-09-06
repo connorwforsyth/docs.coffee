@@ -3,11 +3,7 @@ sidebar: false
 ---
 
 
-<<<<<<< Updated upstream
-## Designer, maker + drinker of coffee. ☕️
-=======
 ## A repository for all things coffee.
->>>>>>> Stashed changes
 
 [Methods](/Methods/) <br />Comhehensive Guide to improve your brewing.
 
