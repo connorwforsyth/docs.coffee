@@ -8,7 +8,7 @@ import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 export default defineUserConfig({
   lang: 'en-US',
   title: 'Coffee',
-  description: 'A place to store and share   knowledge.',
+  description: 'A place to store and share knowledge.',
   head: [
     ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "logo.svg"}],
     ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "logo.svg"}],
@@ -43,12 +43,12 @@ export default defineUserConfig({
      // public file path
      logo: 'logo.svg',
      contributors: false,
-     docsRepo: 'https://github.com/connorforsythco/docs.coffee',
+     docsRepo: 'https://github.com/connorwforsyth/docs.coffee',
      docsDir: 'docs',
      docsBranch: 'master',
      editLinkText: 'Edit this page',
     navbar: [
-      {text: 'Feedback', link: 'https://connorforsyth.co',},
+      {text: 'Feedback', link: 'https://airtable.com/shrt86wdmJVh8gpXQ',},
       {text: 'Contribute', link: '/join.md/',},
       {text: 'Slack', link: 'https://join.slack.com/t/docscoffee/shared_invite/zt-1fv02kk3k-uvj2hog7a9qEUDg91PtMOQ',}
   ],

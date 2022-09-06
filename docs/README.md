@@ -27,4 +27,4 @@ We want to bridge the gap between consumers and the supply chain of coffee.
 
 #### Newsletter
 
-Subscribe on [Substack](https://connorforsyth.substack.com/subscribe?)
+Subscribe on [Substack](https://docscoffee.substack.com/subscribe?)
