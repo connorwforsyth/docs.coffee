@@ -45,7 +45,7 @@ export default defineUserConfig({
      contributors: false,
      docsRepo: 'https://github.com/connorwforsyth/docs.coffee',
      docsDir: 'docs',
-     docsBranch: 'master',
+     docsBranch: 'main',
      editLinkText: 'Edit this page',
     navbar: [
       {text: 'Feedback', link: 'https://airtable.com/shrt86wdmJVh8gpXQ',},
