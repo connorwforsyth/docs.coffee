@@ -48,7 +48,7 @@ export default defineUserConfig({
      docsBranch: 'master',
      editLinkText: 'Edit this page',
     navbar: [
-      {text: 'Feedback', link: 'https://airtable.com/shrt86wdmJVh8gpXQyar',},
+      {text: 'Feedback', link: 'https://airtable.com/shrt86wdmJVh8gpXQy',},
       {text: 'Contribute', link: '/join.md/',},
       {text: 'Slack', link: 'https://join.slack.com/t/docscoffee/shared_invite/zt-1fv02kk3k-uvj2hog7a9qEUDg91PtMOQ',}
   ],
