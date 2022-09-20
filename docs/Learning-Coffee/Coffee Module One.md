@@ -111,16 +111,13 @@ Some of things that impact coffee flavours are:
 **Processing:** The methods used to turn ripe coffee cherries into dried green beans the 3 most common processing methods for specialty coffee are:
 
 - 
-    
-    Natural – Drying the seeds while still in the fruit
-    
-- 
-    
-    Washed – Drying the seeds without the fruit intact by using fermentation to separate the fruit
+ Natural – Drying the seeds while still in the fruit
     
 - 
+  Washed – Drying the seeds without the fruit intact by using fermentation to separate the fruit
     
-    Honey – coffees are dried with some and not all of the outer layer of the coffee cherry removed
+- 
+ Honey – coffees are dried with some and not all of the outer layer of the coffee cherry removed
     
 
 **Roasting:** By turning coffee from green beans to brown roasted coffee with heat we are changing the physical and chemical structure of the coffee, caramelizing sugars, adding roast flavours with Maillard reactions and other chemical reactions.
@@ -128,25 +125,21 @@ Some of things that impact coffee flavours are:
 **Brewing:** is the final stage in the process from soil to palate, many variables come into play and could change how the coffee tastes. Some important variables are:
 
 - 
-    
-    Brew Ratio (water to coffee)
-    
-- 
-    
-    Grind Size (and uniformity)
+ Brew Ratio (water to coffee)
     
 - 
-    
-    Extraction Time
+ Grind Size (and uniformity)
     
 - 
+ Extraction Time
     
-    Water Temperature
+- 
+Water Temperature
     
 
-![Coffee%20Module%20One%20%E2%80%93%20Code%20Black%20Coffee%203d00c9566edf45cb96cd03057a070b63/1-3c-v5_480x480.png](1-3c-v5_480x480.png)
+![Coffee%20Module%20One%20%E2%80%93%20Code%20Black%20Coffee%203d00c9566edf45cb96cd03057a070b63/1-3c-v5_480x480.png](/1-3c-v5_480x480.png)
 
-![Coffee%20Module%20One%20%E2%80%93%20Code%20Black%20Coffee%203d00c9566edf45cb96cd03057a070b63/Untitled_design_-_2020-10-31T121340.650.png](Untitled_design_-_2020-10-31T121340.650.png)
+![Coffee%20Module%20One%20%E2%80%93%20Code%20Black%20Coffee%203d00c9566edf45cb96cd03057a070b63/Untitled_design_-_2020-10-31T121340.650.png](/Untitled_design_-_2020-10-31T121340.650.png)
 
 ### Processing: An Intro
 
@@ -207,7 +200,7 @@ This method gives you the best of both worlds with the fine elegant attributes o
 Negatives:
 High risk of drying faults, intensive manual labour.
 
-![Coffee%20Module%20One%20%E2%80%93%20Code%20Black%20Coffee%203d00c9566edf45cb96cd03057a070b63/Untitled_design_-_2020-11-11T130531.597_1024x1024.png](Untitled_design_-_2020-11-11T130531.597_1024x1024.png)
+![Coffee%20Module%20One%20%E2%80%93%20Code%20Black%20Coffee%203d00c9566edf45cb96cd03057a070b63/Untitled_design_-_2020-11-11T130531.597_1024x1024.png](/Untitled_design_-_2020-11-11T130531.597_1024x1024.png)
 
 ### Coffee Roasting (Intro)
 
@@ -218,7 +211,7 @@ We may be getting into more familiar territory here but that doesn’t mean that
 
 Coffee is composed of organic oils, water, protein, starch and vitamins – all of which change during the roasting process. The coffee bean will lose approximately 10-16% of its weight during roast and its mass will increase up to 30%. On average our roasts take 12-17 min per batch.
 
-![Coffee%20Module%20One%20%E2%80%93%20Code%20Black%20Coffee%203d00c9566edf45cb96cd03057a070b63/Untitled_design_-_2020-11-11T130701.319_1024x1024.png](Untitled_design_-_2020-11-11T130701.319_1024x1024.png)
+![Coffee%20Module%20One%20%E2%80%93%20Code%20Black%20Coffee%203d00c9566edf45cb96cd03057a070b63/Untitled_design_-_2020-11-11T130701.319_1024x1024.png](/Untitled_design_-_2020-11-11T130701.319_1024x1024.png)
 
 The coffee first goes through an endothermic reaction and is slowly turning yellow from green, at this stage its basically just dehydrating.
 
@@ -241,7 +234,7 @@ The Roaster has to fine tune variables like:
 
 Essentially all coffee brewing methods involve using water to carry through (extract) flavour from dry grounds of coffee into a brew (water carrying coffee particles, solids).
 
-![Coffee%20Module%20One%20%E2%80%93%20Code%20Black%20Coffee%203d00c9566edf45cb96cd03057a070b63/Untitled_design_-_2020-11-01T162236.677.png](Untitled_design_-_2020-11-01T162236.677.png)
+![Coffee%20Module%20One%20%E2%80%93%20Code%20Black%20Coffee%203d00c9566edf45cb96cd03057a070b63/Untitled_design_-_2020-11-01T162236.677.png](/Untitled_design_-_2020-11-01T162236.677.png)
 
 > Different brew methods will give you different flavours, taste, aromatics, mouthfeel of the same coffee so it’s important to understand what brew method is right for what you’re looking to extract out of a coffee.
 > 
@@ -282,7 +275,7 @@ This method still uses the percolation theory of water passing through a bed of 
 
 Most of the coffee that the world drank a few decades ago was blended, while that’s still probably true across the coffee industry as a whole, in the specialty segment, Single Origins are becoming increasingly popular. This is mostly because it allows the consumer to experience the fruits of the coffee farmers labour (quite literally).
 
-![Coffee%20Module%20One%20%E2%80%93%20Code%20Black%20Coffee%203d00c9566edf45cb96cd03057a070b63/CB_M.png](CB_M.png)
+![Coffee%20Module%20One%20%E2%80%93%20Code%20Black%20Coffee%203d00c9566edf45cb96cd03057a070b63/CB_M.png](/CB_M.png)
 
 Nevertheless, blending can be a masterful craft in its own right. In its basic form it ensures a consistent flavour experience throughout the year as the parts/inputs of a particular blend will change due to seasonal availability, in saying that consistency of flavour will change but not entirely, however overtime it will be impossible to retain the same or similar flavour characteristics so that’s why it’s a lot more common now that we see blends being called seasonal blends that fully embrace the fact that consistency year round is impossible but rather create a blend utilizing flavours of coffee that is available to us at the time. At its best a blend can be a unique flavour experience, where the flavour is a lot more than just a sum of its component parts.
 
