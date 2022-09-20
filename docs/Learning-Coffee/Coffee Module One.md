@@ -51,7 +51,7 @@ Cupping is an industry practice that can be done informally by anyone or with st
 
 The ground coffee floats to the top forming a crust. By breaking the crust a cupper can evaluate the aromatics as they are released. The brew is then slurped from a cupping spoon aspirating the coffee over the palate to obtain the organoleptic (flavour) profile of each coffee.
 
-![Coffee%20Module%20One%20%E2%80%93%20Code%20Black%20Coffee%203d00c9566edf45cb96cd03057a070b63/m1.5.png](m1.5.png)
+![Coffee%20Module%20One%20%E2%80%93%20Code%20Black%20Coffee%203d00c9566edf45cb96cd03057a070b63/m1.5.png](/m1.5.png)
 
 **When cupping each coffee is evaluated by:**
 
