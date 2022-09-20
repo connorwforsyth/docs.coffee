@@ -20,6 +20,7 @@ People around the world are dependent of coffee throughout their daily life. It 
 We want to bridge the gap between consumers and the supply chain of coffee.
 
 ## Support
+[join](/join/)
 
 #### Creators
 [@connorwforsyth](https://twitter.com/connorwforsyth)
