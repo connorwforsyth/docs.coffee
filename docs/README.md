@@ -7,11 +7,16 @@ sidebar: false
 
 [Methods](/Methods/) <br />Comhehensive Guide to improve your brewing.
 
-[Regions](/Regions/) <br />
-Not all coffee tasts the same. Learn how region effects the quality of your brew.
+[Areopress](Methods/Aeropress/README.md) | 
+[Espresso](Methods/Espresso/README.md) | 
+[Filter](Methods/Filter/README.md) | 
+[French Press](Methods/French%20Press/README.md) | 
+[Stovetop](Methods/Stovetop/README.md)
 
-[Kit](/kit/) <br />
-Discover best practices to build a great coffee kit. 
+---
+
+[Learn Coffee](/Learning-coffee/) <br />
+Discover knowledge to inform your coffee practice.
 
 ## Why we exist
 
@@ -19,11 +24,9 @@ People around the world are dependent of coffee throughout their daily life. It 
 
 We want to bridge the gap between consumers and the supply chain of coffee.
 
-## Support
-[join](/join/)
 
 #### Creators
-[@connorwforsyth](https://twitter.com/connorwforsyth)
+[@connorwforsyth](https://twitter.com/connorwforsyth) | [@adelleyen](https://twitter.com/adelleyen)
 
 #### Newsletter
 
