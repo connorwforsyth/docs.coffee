@@ -1,56 +1,18 @@
-import { defineUserConfig } from 'vuepress'
-import { searchPlugin } from '@vuepress/plugin-search'
-import { defaultTheme } from '@vuepress/theme-default'
-import { gitPlugin } from '@vuepress/plugin-git'
-import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
-
-export default defineUserConfig({
-  lang: 'en-US',
+module.exports = {
   title: 'Coffee',
-  description: 'A place to store and share knowledge.',
-  head: [
-    ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "logo.svg"}],
-    ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "logo.svg"}],
-    ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "logo.svg"}],
-    ['link', { rel: "manifest", href: "/"}],
-    ['link', { rel: "mask-icon", href: "logo.svg", color: "#3a0839"}],
-    ['link', { rel: "shortcut icon", href: "logo.svg"}],
-    ['meta', { name: "msapplication-TileColor", content: "#3a0839"}],
-    ['meta', { name: "msapplication-config", content: "logo.svg"}],
-    ['meta', { name: "theme-color", content: "#ffffff"}],
+  description: 'Coffee Repository',
+  plugins: [
+    '@vuepress/last-updated',
+    ['@vuepress/search', { searchHotkeys: [] }],
   ],
 
-  plugins: [
-    searchPlugin({
-      // options
-    }),
-    gitPlugin({
-        // options
-      }),
-    googleAnalyticsPlugin({
-      // options
-      id: 'G-H8F3Z0RC9P',
-    }),
-    registerComponentsPlugin({
-      // options
-    }),
-  ],
-    
-    
-  
-    theme: defaultTheme({
-     // public file path
-     logo: 'logo.svg',
-     contributors: false,
-     docsRepo: 'https://github.com/connorwforsyth/docs.coffee',
-     docsDir: 'docs',
-     docsBranch: 'master',
-     editLinkText: 'Edit this page',
-    navbar: [
+  themeConfig: {
+    nav: [
       {text: 'Feedback', link: 'https://airtable.com/shrt86wdmJVh8gpXQ',},
-      {text: 'Contribute', link: '/join.md/',},
       {text: 'Slack', link: 'https://join.slack.com/t/docscoffee/shared_invite/zt-1fv02kk3k-uvj2hog7a9qEUDg91PtMOQ',}
   ],
-  }),
-
-})
+    docsRepo: 'https://github.com/connorwforsyth/docs.coffee',
+    docsDir: 'docs',
+    editLinks: true,
+  },
+}
