@@ -21,18 +21,17 @@ Links coming soon.
 
 ### M01: Inverted Aeropress Method
 
-Serves 1 12g  WATER 180ml at 93 - 96° (Just off the boil 
+> Serves 1 12g  WATER 180ml at 93 - 96° (Just off the boil 
 
 1. Start with the Aeropress upside down (inverted). 
- 2. Bring filtered water to a boil and let it sit until it cools to temperature range, (approx. 1min). 
- 3. Rinse filter to wash out any paper flavour after placing it in the round lid and set aside. Preheat Aeropress with hot water at the same time. 
- 4. Add ground coffee to the Aeropress chamber. Your grind size should be medium to medium fine (similar to sand or slightly finer). Place on scales and tare. 
- 5. Start the timer and add 180ml of water, filling to the top of the Aeropress, gently stir. Attach the lid and let it brew for 1:45 minutes. 
- 6. Place cup / jug upside down over the top of the Aeropress and carefully flip over so the cup is on the bottom and the Aeropress is sitting on top. *BE CAREFUL* 
- 7. Slowly press out into your jug / cup and serve.
+2. Bring filtered water to a boil and let it sit until it cools to temperature range, (approx. 1min). 
+3. Rinse filter to wash out any paper flavour after placing it in the round lid and set aside. Preheat Aeropress with hot water at the same time. 
+4. Add ground coffee to the Aeropress chamber. Your grind size should be medium to medium fine (similar to sand or slightly finer). Place on scales and tare. 
+5. Start the timer and add 180ml of water, filling to the top of the Aeropress, gently stir. Attach the lid and let it brew for 1:45 minutes. 
+6. Place cup / jug upside down over the top of the Aeropress and carefully flip over so the cup is on the bottom and the Aeropress is sitting on top. *BE CAREFUL* 
+7. Slowly press out into your jug / cup and serve.
 
-> 
-> Brew time 2 - 3 minutes
+Brew time 2 - 3 minutes
 
 
 ## Resources:
