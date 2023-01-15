@@ -1,4 +1,4 @@
-# Areopress Brew Guide
+# Areopress
 
 ### What is an Aeropress?
 
